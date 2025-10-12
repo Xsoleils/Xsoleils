@@ -1,5 +1,5 @@
-<h1 align="center">Naber Ben Soleil</h1>
-<h3 align="center">Namı Daha Değmez SoleilOS un Sahibi</h3>
+<h1 align="center">Soleil</h1>
+<h3 align="center"> </h3>
 
 - 🔭 SoleilOS [SoleilOS](https://github.com/Xsoleils/SoleilOS)
 
