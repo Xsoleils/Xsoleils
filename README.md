@@ -1,7 +1,7 @@
 <h1 align="center">Soleil</h1>
 <h3 align="center"> </h3>
 
-- 🔭 Steam Playtime Manager [SoleilOS](https://github.com/Xsoleils/steam-playtime-manager)
+- 🔭 Steam Playtime Manager [Steam Playtime Manager](https://github.com/Xsoleils/steam-playtime-manager)
 
 - 👨‍💻 Bak Herşey Burda [https://github.com/Xsoleils](https://github.com/Xsoleils)
 
